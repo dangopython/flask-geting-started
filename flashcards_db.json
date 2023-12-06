@@ -1,0 +1,18 @@
+[
+  {
+    "question": "Hello (formal)",
+    "answer": "नमस्कार"
+  },
+  {
+    "question": "Goodbye (formal)",
+    "answer": "येतो"
+  },
+  {
+    "question": "Hello (informal)",
+    "answer": "नमस्ते"
+  },
+  {
+    "question": "Goodbye (informal)",
+    "answer": "राम राम"
+  }
+]
